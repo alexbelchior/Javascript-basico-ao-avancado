@@ -1,2 +1,2 @@
 # Javascript-basico-ao-avancado
-Repositório de estudo
+Repositório de estudo de javascript
